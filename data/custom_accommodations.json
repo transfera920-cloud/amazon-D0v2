@@ -1,0 +1,23 @@
+[
+  {
+    "id": "custom_1789286317725_gwp7d",
+    "name": "東埔山莊",
+    "type": "背包客棧",
+    "address": "南投縣信義鄉同富村太平巷118號",
+    "phone": "049-2702213",
+    "location": {
+      "lat": 23.4883,
+      "lng": 120.8872
+    },
+    "price": 400,
+    "priceDisplay": "NT$ 400",
+    "rating": 4.2,
+    "userRatingCount": null,
+    "note": "玉山登山口前夜住宿首選，需自備睡袋盥洗用品",
+    "googleMapsUrl": "https://maps.app.goo.gl/tungpu",
+    "source": "custom",
+    "enabled": true,
+    "createdAt": "2026-09-13T07:58:37.725Z",
+    "updatedAt": "2026-09-13T07:58:42.596Z"
+  }
+]

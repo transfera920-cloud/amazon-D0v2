@@ -1,0 +1,6 @@
+{
+  "name": "D0 住宿搜尋系統",
+  "description": "真正使用 Google Maps Platform 即時搜尋登山口周邊真實住宿、計算真實駕車時間，結合後台手動補充管理自有住宿地點的登山前夜宿（D0）搜尋系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
